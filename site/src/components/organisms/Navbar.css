@@ -1,0 +1,10 @@
+.navbar-nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-link img {
+    display: block;
+    margin: 0 auto;
+  }
+  
